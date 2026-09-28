@@ -1,0 +1,285 @@
+{
+  "notice": "Synthetic benchmark, five seeds per case. Search bounds supplied explicitly; no real-data validation.",
+  "runs": [
+    {
+      "case": "accelerating",
+      "seed": 0,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 0.0002727302025123567,
+      "relative_phase_max_cycles": 0.006044361549861321,
+      "original_stft_frequency_mae": 0.07645071568522356
+    },
+    {
+      "case": "accelerating",
+      "seed": 1,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 0.00012085945564660771,
+      "relative_phase_max_cycles": 0.0020416433226539965,
+      "original_stft_frequency_mae": 0.07658947181924293
+    },
+    {
+      "case": "accelerating",
+      "seed": 2,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 5.880095456761203e-05,
+      "relative_phase_max_cycles": 0.002940047728387185,
+      "original_stft_frequency_mae": 0.07611839922937659
+    },
+    {
+      "case": "accelerating",
+      "seed": 3,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 2.087286667813959e-05,
+      "relative_phase_max_cycles": 0.0006227176740054574,
+      "original_stft_frequency_mae": 0.076388762089378
+    },
+    {
+      "case": "accelerating",
+      "seed": 4,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 0.00028137981899563244,
+      "relative_phase_max_cycles": 0.005149032609494952,
+      "original_stft_frequency_mae": 0.07596951675242382
+    },
+    {
+      "case": "decelerating",
+      "seed": 0,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 7.144262261031026e-05,
+      "relative_phase_max_cycles": 0.003572131130511025,
+      "original_stft_frequency_mae": 0.07767281780771342
+    },
+    {
+      "case": "decelerating",
+      "seed": 1,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 0.00010688046954309311,
+      "relative_phase_max_cycles": 0.005344023477160675,
+      "original_stft_frequency_mae": 0.07743531363896237
+    },
+    {
+      "case": "decelerating",
+      "seed": 2,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 0.0002592805947043525,
+      "relative_phase_max_cycles": 0.01296402973521893,
+      "original_stft_frequency_mae": 0.07726118341909054
+    },
+    {
+      "case": "decelerating",
+      "seed": 3,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 0.0001365261788425004,
+      "relative_phase_max_cycles": 0.003762853193663318,
+      "original_stft_frequency_mae": 0.07768245878891829
+    },
+    {
+      "case": "decelerating",
+      "seed": 4,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 0.0003853373312225081,
+      "relative_phase_max_cycles": 0.012921890736805608,
+      "original_stft_frequency_mae": 0.07760944385883421
+    },
+    {
+      "case": "harmonic",
+      "seed": 0,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 6.218931170704384e-05,
+      "relative_phase_max_cycles": 0.0022369409610405455,
+      "original_stft_frequency_mae": 1.0027518759379692
+    },
+    {
+      "case": "harmonic",
+      "seed": 1,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 3.808565775157796e-05,
+      "relative_phase_max_cycles": 0.0015167404294089692,
+      "original_stft_frequency_mae": 1.0057265783189218
+    },
+    {
+      "case": "harmonic",
+      "seed": 2,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 4.839967137954407e-05,
+      "relative_phase_max_cycles": 0.001717380046571293,
+      "original_stft_frequency_mae": 0.9968024711760645
+    },
+    {
+      "case": "harmonic",
+      "seed": 3,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 3.588958028555045e-05,
+      "relative_phase_max_cycles": 0.0016227472379739538,
+      "original_stft_frequency_mae": 0.9968024711760645
+    },
+    {
+      "case": "harmonic",
+      "seed": 4,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 5.5587655599346365e-05,
+      "relative_phase_max_cycles": 0.0027793827799627024,
+      "original_stft_frequency_mae": 0.993827768795112
+    },
+    {
+      "case": "gaps",
+      "seed": 0,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 0.00040317278405027407,
+      "relative_phase_max_cycles": 0.006607878142965262
+    },
+    {
+      "case": "gaps",
+      "seed": 1,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 2.6352113033897632e-05,
+      "relative_phase_max_cycles": 0.0012807258820473066
+    },
+    {
+      "case": "gaps",
+      "seed": 2,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 9.004833921909895e-05,
+      "relative_phase_max_cycles": 0.0032935437305923188
+    },
+    {
+      "case": "gaps",
+      "seed": 3,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 8.68362816330559e-05,
+      "relative_phase_max_cycles": 0.003571960455367673
+    },
+    {
+      "case": "gaps",
+      "seed": 4,
+      "status": "accepted_model",
+      "reasons": [],
+      "frequency_mae": 0.00042435425213143487,
+      "relative_phase_max_cycles": 0.01947548955060796
+    },
+    {
+      "case": "dropout",
+      "seed": 0,
+      "status": "unreliable",
+      "reasons": [
+        "local_signal_loss_or_model_mismatch"
+      ],
+      "frequency_mae": 0.00027587182173062865,
+      "relative_phase_max_cycles": 0.008797715397385275,
+      "original_stft_frequency_mae": 3.233293661711808
+    },
+    {
+      "case": "dropout",
+      "seed": 1,
+      "status": "unreliable",
+      "reasons": [
+        "local_signal_loss_or_model_mismatch"
+      ],
+      "frequency_mae": 0.0007748986982442961,
+      "relative_phase_max_cycles": 0.019616605987856417,
+      "original_stft_frequency_mae": 4.060590263137521
+    },
+    {
+      "case": "dropout",
+      "seed": 2,
+      "status": "unreliable",
+      "reasons": [
+        "local_signal_loss_or_model_mismatch"
+      ],
+      "frequency_mae": 0.00025046450242564064,
+      "relative_phase_max_cycles": 0.005751292564827537,
+      "original_stft_frequency_mae": 4.239944898044261
+    },
+    {
+      "case": "dropout",
+      "seed": 3,
+      "status": "unreliable",
+      "reasons": [
+        "local_signal_loss_or_model_mismatch"
+      ],
+      "frequency_mae": 0.0006276722737414225,
+      "relative_phase_max_cycles": 0.016370714185338642,
+      "original_stft_frequency_mae": 4.155303730734415
+    },
+    {
+      "case": "dropout",
+      "seed": 4,
+      "status": "unreliable",
+      "reasons": [
+        "local_signal_loss_or_model_mismatch"
+      ],
+      "frequency_mae": 0.0008406176361890095,
+      "relative_phase_max_cycles": 0.020219647323905576,
+      "original_stft_frequency_mae": 4.4839348081778985
+    },
+    {
+      "case": "noise",
+      "seed": 0,
+      "status": "unreliable",
+      "reasons": [
+        "low_explained_variation",
+        "local_signal_loss_or_model_mismatch"
+      ],
+      "original_stft_frequency_mae": 10.236540082541273
+    },
+    {
+      "case": "noise",
+      "seed": 1,
+      "status": "unreliable",
+      "reasons": [
+        "low_explained_variation",
+        "local_signal_loss_or_model_mismatch"
+      ],
+      "original_stft_frequency_mae": 11.028847139343481
+    },
+    {
+      "case": "noise",
+      "seed": 2,
+      "status": "unreliable",
+      "reasons": [
+        "low_explained_variation",
+        "local_signal_loss_or_model_mismatch"
+      ],
+      "original_stft_frequency_mae": 8.710677965470829
+    },
+    {
+      "case": "noise",
+      "seed": 3,
+      "status": "unreliable",
+      "reasons": [
+        "low_explained_variation",
+        "local_signal_loss_or_model_mismatch"
+      ],
+      "original_stft_frequency_mae": 8.25380837070321
+    },
+    {
+      "case": "noise",
+      "seed": 4,
+      "status": "unreliable",
+      "reasons": [
+        "low_explained_variation",
+        "local_signal_loss_or_model_mismatch"
+      ],
+      "original_stft_frequency_mae": 9.755604819522857
+    }
+  ]
+}

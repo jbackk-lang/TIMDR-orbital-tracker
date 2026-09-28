@@ -1,0 +1,750 @@
+{
+  "norad_id": 25544,
+  "records": [
+    {
+      "time_utc": "2026-09-28T13:01:08.755726+00:00",
+      "predicted_azimuth_deg": 247.89012965785318,
+      "predicted_elevation_deg": 22.44425311883206,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.1815100651749056,
+      "formal_pointing_sigma_deg": 0.05186824526124504
+    },
+    {
+      "time_utc": "2026-09-28T13:01:10.755726+00:00",
+      "predicted_azimuth_deg": 247.91975030958264,
+      "predicted_elevation_deg": 22.757686276799564,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.28287540279724743,
+      "formal_pointing_sigma_deg": 0.039925086725627265
+    },
+    {
+      "time_utc": "2026-09-28T13:01:12.755726+00:00",
+      "predicted_azimuth_deg": 247.75065064143607,
+      "predicted_elevation_deg": 23.182041334996732,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.7148945528324744,
+      "formal_pointing_sigma_deg": 0.03919691190414443
+    },
+    {
+      "time_utc": "2026-09-28T13:01:14.755726+00:00",
+      "predicted_azimuth_deg": 247.62980848065874,
+      "predicted_elevation_deg": 23.641304274037388,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.18794875584949888,
+      "formal_pointing_sigma_deg": 0.03892513496873299
+    },
+    {
+      "time_utc": "2026-09-28T13:01:16.755726+00:00",
+      "predicted_azimuth_deg": 247.48331282253378,
+      "predicted_elevation_deg": 24.103197125440722,
+      "measurement_accepted": true,
+      "innovation_statistic": 2.064823020227904,
+      "formal_pointing_sigma_deg": 0.03774871104261561
+    },
+    {
+      "time_utc": "2026-09-28T13:01:18.755726+00:00",
+      "predicted_azimuth_deg": 247.2737460681854,
+      "predicted_elevation_deg": 24.591010807706404,
+      "measurement_accepted": true,
+      "innovation_statistic": 3.712910859095295,
+      "formal_pointing_sigma_deg": 0.036187283952821656
+    },
+    {
+      "time_utc": "2026-09-28T13:01:20.755726+00:00",
+      "predicted_azimuth_deg": 247.04123339612516,
+      "predicted_elevation_deg": 25.09761859275644,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.19147970698538316,
+      "formal_pointing_sigma_deg": 0.034595605912290196
+    },
+    {
+      "time_utc": "2026-09-28T13:01:22.755726+00:00",
+      "predicted_azimuth_deg": 246.84308615344617,
+      "predicted_elevation_deg": 25.609955082439576,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.830425902689786,
+      "formal_pointing_sigma_deg": 0.03311734884268812
+    },
+    {
+      "time_utc": "2026-09-28T13:01:24.755726+00:00",
+      "predicted_azimuth_deg": 246.6352473062331,
+      "predicted_elevation_deg": 26.10072230270344,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.6815659399896441,
+      "formal_pointing_sigma_deg": 0.03179863299573364
+    },
+    {
+      "time_utc": "2026-09-28T13:01:26.755726+00:00",
+      "predicted_azimuth_deg": 246.40806527562086,
+      "predicted_elevation_deg": 26.616298506831264,
+      "measurement_accepted": true,
+      "innovation_statistic": 3.941179569020486,
+      "formal_pointing_sigma_deg": 0.030647282693573898
+    },
+    {
+      "time_utc": "2026-09-28T13:01:28.755726+00:00",
+      "predicted_azimuth_deg": 246.20654338937675,
+      "predicted_elevation_deg": 27.173122580321497,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.8106175903719866,
+      "formal_pointing_sigma_deg": 0.02965714243512264
+    },
+    {
+      "time_utc": "2026-09-28T13:01:30.755726+00:00",
+      "predicted_azimuth_deg": 245.98411033663575,
+      "predicted_elevation_deg": 27.73503513835366,
+      "measurement_accepted": true,
+      "innovation_statistic": 2.246177103545234,
+      "formal_pointing_sigma_deg": 0.02881734967831046
+    },
+    {
+      "time_utc": "2026-09-28T13:01:34.755726+00:00",
+      "predicted_azimuth_deg": 245.47250399107222,
+      "predicted_elevation_deg": 28.8768820702903,
+      "measurement_accepted": true,
+      "innovation_statistic": 4.300277160105505,
+      "formal_pointing_sigma_deg": 0.03099082178833514
+    },
+    {
+      "time_utc": "2026-09-28T13:01:36.755726+00:00",
+      "predicted_azimuth_deg": 245.19451037806772,
+      "predicted_elevation_deg": 29.443289947105164,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.2565578049297721,
+      "formal_pointing_sigma_deg": 0.029452558425049166
+    },
+    {
+      "time_utc": "2026-09-28T13:01:38.755726+00:00",
+      "predicted_azimuth_deg": 244.9220993521023,
+      "predicted_elevation_deg": 30.043356152841085,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.1151452525120988,
+      "formal_pointing_sigma_deg": 0.02841947384741749
+    },
+    {
+      "time_utc": "2026-09-28T13:01:40.755726+00:00",
+      "predicted_azimuth_deg": 244.63333952476552,
+      "predicted_elevation_deg": 30.660561951053054,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.8581390306596524,
+      "formal_pointing_sigma_deg": 0.02770428651489569
+    },
+    {
+      "time_utc": "2026-09-28T13:01:42.755726+00:00",
+      "predicted_azimuth_deg": 244.33470629281874,
+      "predicted_elevation_deg": 31.28662548105255,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.0955323188834054,
+      "formal_pointing_sigma_deg": 0.02719903342857496
+    },
+    {
+      "time_utc": "2026-09-28T13:01:44.755726+00:00",
+      "predicted_azimuth_deg": 244.0302148089795,
+      "predicted_elevation_deg": 31.94742354110463,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.037798326691196905,
+      "formal_pointing_sigma_deg": 0.026836613974181276
+    },
+    {
+      "time_utc": "2026-09-28T13:01:46.755726+00:00",
+      "predicted_azimuth_deg": 243.70602850312895,
+      "predicted_elevation_deg": 32.617015989542224,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.1185505142934094,
+      "formal_pointing_sigma_deg": 0.026573306653988524
+    },
+    {
+      "time_utc": "2026-09-28T13:01:48.755726+00:00",
+      "predicted_azimuth_deg": 243.36791585783197,
+      "predicted_elevation_deg": 33.30281970627864,
+      "measurement_accepted": true,
+      "innovation_statistic": 2.4521967152034345,
+      "formal_pointing_sigma_deg": 0.026379778767077977
+    },
+    {
+      "time_utc": "2026-09-28T13:01:50.755726+00:00",
+      "predicted_azimuth_deg": 243.02753978949784,
+      "predicted_elevation_deg": 34.0160826607626,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.10714420885923856,
+      "formal_pointing_sigma_deg": 0.026235990846518308
+    },
+    {
+      "time_utc": "2026-09-28T13:01:52.755726+00:00",
+      "predicted_azimuth_deg": 242.65255744387122,
+      "predicted_elevation_deg": 34.74468360895085,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.2063575126586414,
+      "formal_pointing_sigma_deg": 0.02612808668824625
+    },
+    {
+      "time_utc": "2026-09-28T13:01:56.755726+00:00",
+      "predicted_azimuth_deg": 241.85289947026178,
+      "predicted_elevation_deg": 36.26738969779583,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.7986871178945213,
+      "formal_pointing_sigma_deg": 0.02885065205743548
+    },
+    {
+      "time_utc": "2026-09-28T13:01:58.755726+00:00",
+      "predicted_azimuth_deg": 241.4192181935914,
+      "predicted_elevation_deg": 37.0433372998588,
+      "measurement_accepted": false,
+      "innovation_statistic": 23849.201453211404,
+      "formal_pointing_sigma_deg": 0.033332756529635764
+    },
+    {
+      "time_utc": "2026-09-28T13:02:00.755726+00:00",
+      "predicted_azimuth_deg": 240.96199347805873,
+      "predicted_elevation_deg": 37.85028028571621,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.40185395864908346,
+      "formal_pointing_sigma_deg": 0.03089502335139591
+    },
+    {
+      "time_utc": "2026-09-28T13:02:02.755726+00:00",
+      "predicted_azimuth_deg": 240.4764618767103,
+      "predicted_elevation_deg": 38.669533793586325,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.772131965093369,
+      "formal_pointing_sigma_deg": 0.029305553316389447
+    },
+    {
+      "time_utc": "2026-09-28T13:02:04.755726+00:00",
+      "predicted_azimuth_deg": 239.95559310111992,
+      "predicted_elevation_deg": 39.510647334501385,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.7372814270500574,
+      "formal_pointing_sigma_deg": 0.02822307327672209
+    },
+    {
+      "time_utc": "2026-09-28T13:02:06.755726+00:00",
+      "predicted_azimuth_deg": 239.4236498339544,
+      "predicted_elevation_deg": 40.37428785089556,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.283542128267996,
+      "formal_pointing_sigma_deg": 0.02747222959242224
+    },
+    {
+      "time_utc": "2026-09-28T13:02:08.755726+00:00",
+      "predicted_azimuth_deg": 238.86048481979108,
+      "predicted_elevation_deg": 41.256607179742076,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.2780419794008979,
+      "formal_pointing_sigma_deg": 0.026949475367695305
+    },
+    {
+      "time_utc": "2026-09-28T13:02:10.755726+00:00",
+      "predicted_azimuth_deg": 238.24704291264857,
+      "predicted_elevation_deg": 42.17342479124641,
+      "measurement_accepted": true,
+      "innovation_statistic": 4.279845555133791,
+      "formal_pointing_sigma_deg": 0.026587333870662727
+    },
+    {
+      "time_utc": "2026-09-28T13:02:12.755726+00:00",
+      "predicted_azimuth_deg": 237.60813833031688,
+      "predicted_elevation_deg": 43.13294297400635,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.10494785989448263,
+      "formal_pointing_sigma_deg": 0.026338908446783754
+    },
+    {
+      "time_utc": "2026-09-28T13:02:14.755726+00:00",
+      "predicted_azimuth_deg": 236.92243533221497,
+      "predicted_elevation_deg": 44.09455356171578,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.8525944084995374,
+      "formal_pointing_sigma_deg": 0.02617044631627709
+    },
+    {
+      "time_utc": "2026-09-28T13:02:18.755726+00:00",
+      "predicted_azimuth_deg": 235.39607517842455,
+      "predicted_elevation_deg": 46.100544991505465,
+      "measurement_accepted": true,
+      "innovation_statistic": 2.116358141999184,
+      "formal_pointing_sigma_deg": 0.028850463519088824
+    },
+    {
+      "time_utc": "2026-09-28T13:02:20.755726+00:00",
+      "predicted_azimuth_deg": 234.5519433456863,
+      "predicted_elevation_deg": 47.11795016355799,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.9853809720648896,
+      "formal_pointing_sigma_deg": 0.028051225326468993
+    },
+    {
+      "time_utc": "2026-09-28T13:02:22.755726+00:00",
+      "predicted_azimuth_deg": 233.64234070285897,
+      "predicted_elevation_deg": 48.18392348676123,
+      "measurement_accepted": true,
+      "innovation_statistic": 2.3399411373414787,
+      "formal_pointing_sigma_deg": 0.027512300149589324
+    },
+    {
+      "time_utc": "2026-09-28T13:02:24.755726+00:00",
+      "predicted_azimuth_deg": 232.64949046490324,
+      "predicted_elevation_deg": 49.25577814224191,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.9930986127816329,
+      "formal_pointing_sigma_deg": 0.027133592161849567
+    },
+    {
+      "time_utc": "2026-09-28T13:02:26.755726+00:00",
+      "predicted_azimuth_deg": 231.59386694519807,
+      "predicted_elevation_deg": 50.345759341766815,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.5388348785994216,
+      "formal_pointing_sigma_deg": 0.02685541209227665
+    },
+    {
+      "time_utc": "2026-09-28T13:02:28.755726+00:00",
+      "predicted_azimuth_deg": 230.46992032269418,
+      "predicted_elevation_deg": 51.45669545300559,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.9351632072774805,
+      "formal_pointing_sigma_deg": 0.026642119575107974
+    },
+    {
+      "time_utc": "2026-09-28T13:02:30.755726+00:00",
+      "predicted_azimuth_deg": 229.22898321095306,
+      "predicted_elevation_deg": 52.58400723046465,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.9020959700037996,
+      "formal_pointing_sigma_deg": 0.02647263532386423
+    },
+    {
+      "time_utc": "2026-09-28T13:02:32.755726+00:00",
+      "predicted_azimuth_deg": 227.90079730390528,
+      "predicted_elevation_deg": 53.74777619265933,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.25558838025430936,
+      "formal_pointing_sigma_deg": 0.02633460281378796
+    },
+    {
+      "time_utc": "2026-09-28T13:02:34.755726+00:00",
+      "predicted_azimuth_deg": 226.45254019680903,
+      "predicted_elevation_deg": 54.91205555928517,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.29022420212007954,
+      "formal_pointing_sigma_deg": 0.026220738816437692
+    },
+    {
+      "time_utc": "2026-09-28T13:02:36.755726+00:00",
+      "predicted_azimuth_deg": 224.88794811959897,
+      "predicted_elevation_deg": 56.09149649720652,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.45733841540848186,
+      "formal_pointing_sigma_deg": 0.02612658100972063
+    },
+    {
+      "time_utc": "2026-09-28T13:02:40.755726+00:00",
+      "predicted_azimuth_deg": 221.31720480193673,
+      "predicted_elevation_deg": 58.46178184168153,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.8096431783697873,
+      "formal_pointing_sigma_deg": 0.028853820552644578
+    },
+    {
+      "time_utc": "2026-09-28T13:02:42.755726+00:00",
+      "predicted_azimuth_deg": 219.28619188836933,
+      "predicted_elevation_deg": 59.62474478810454,
+      "measurement_accepted": true,
+      "innovation_statistic": 2.3917154648085757,
+      "formal_pointing_sigma_deg": 0.028056878908978174
+    },
+    {
+      "time_utc": "2026-09-28T13:02:44.755726+00:00",
+      "predicted_azimuth_deg": 217.0485774897028,
+      "predicted_elevation_deg": 60.8090680728545,
+      "measurement_accepted": true,
+      "innovation_statistic": 3.0494305082143294,
+      "formal_pointing_sigma_deg": 0.027514203263975565
+    },
+    {
+      "time_utc": "2026-09-28T13:02:46.755726+00:00",
+      "predicted_azimuth_deg": 214.56918642401382,
+      "predicted_elevation_deg": 61.97541091617125,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.2636288993274225,
+      "formal_pointing_sigma_deg": 0.02712997015406012
+    },
+    {
+      "time_utc": "2026-09-28T13:02:48.755726+00:00",
+      "predicted_azimuth_deg": 211.85351765655204,
+      "predicted_elevation_deg": 63.09577910234976,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.709802105143078,
+      "formal_pointing_sigma_deg": 0.026846730087681514
+    },
+    {
+      "time_utc": "2026-09-28T13:02:50.755726+00:00",
+      "predicted_azimuth_deg": 208.87469079733935,
+      "predicted_elevation_deg": 64.18817708548052,
+      "measurement_accepted": true,
+      "innovation_statistic": 2.569683321027802,
+      "formal_pointing_sigma_deg": 0.026629823375202574
+    },
+    {
+      "time_utc": "2026-09-28T13:02:52.755726+00:00",
+      "predicted_azimuth_deg": 205.59686926999706,
+      "predicted_elevation_deg": 65.2060380068093,
+      "measurement_accepted": false,
+      "innovation_statistic": 16443.616504750942,
+      "formal_pointing_sigma_deg": 0.030742243338977238
+    },
+    {
+      "time_utc": "2026-09-28T13:02:54.755726+00:00",
+      "predicted_azimuth_deg": 202.0225792177531,
+      "predicted_elevation_deg": 66.17289571988728,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.8714682155699935,
+      "formal_pointing_sigma_deg": 0.029246235561719763
+    },
+    {
+      "time_utc": "2026-09-28T13:02:56.755726+00:00",
+      "predicted_azimuth_deg": 198.1041595867542,
+      "predicted_elevation_deg": 67.04427687095482,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.6595404351460823,
+      "formal_pointing_sigma_deg": 0.028177876171972017
+    },
+    {
+      "time_utc": "2026-09-28T13:02:58.755726+00:00",
+      "predicted_azimuth_deg": 193.87579018674646,
+      "predicted_elevation_deg": 67.84313997050224,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.5740747863017184,
+      "formal_pointing_sigma_deg": 0.027408076761678325
+    },
+    {
+      "time_utc": "2026-09-28T13:03:02.755726+00:00",
+      "predicted_azimuth_deg": 184.46646693723017,
+      "predicted_elevation_deg": 69.0707854255212,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.41685846408539917,
+      "formal_pointing_sigma_deg": 0.02955729382967886
+    },
+    {
+      "time_utc": "2026-09-28T13:03:04.755726+00:00",
+      "predicted_azimuth_deg": 179.36029750806372,
+      "predicted_elevation_deg": 69.48273949826046,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.7512426775123058,
+      "formal_pointing_sigma_deg": 0.028432287439485903
+    },
+    {
+      "time_utc": "2026-09-28T13:03:06.755726+00:00",
+      "predicted_azimuth_deg": 174.1081137548848,
+      "predicted_elevation_deg": 69.72652087720128,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.0282985856539948,
+      "formal_pointing_sigma_deg": 0.02769934952662389
+    },
+    {
+      "time_utc": "2026-09-28T13:03:08.755726+00:00",
+      "predicted_azimuth_deg": 168.7223461061907,
+      "predicted_elevation_deg": 69.8243464400878,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.6084391366593023,
+      "formal_pointing_sigma_deg": 0.027209620555718475
+    },
+    {
+      "time_utc": "2026-09-28T13:03:10.755726+00:00",
+      "predicted_azimuth_deg": 163.33980360076467,
+      "predicted_elevation_deg": 69.75671268468237,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.0395138004621436,
+      "formal_pointing_sigma_deg": 0.026873166185106906
+    },
+    {
+      "time_utc": "2026-09-28T13:03:12.755726+00:00",
+      "predicted_azimuth_deg": 158.05594877165234,
+      "predicted_elevation_deg": 69.50854738544996,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.9569866474939538,
+      "formal_pointing_sigma_deg": 0.026634104399095953
+    },
+    {
+      "time_utc": "2026-09-28T13:03:14.755726+00:00",
+      "predicted_azimuth_deg": 152.92212372102588,
+      "predicted_elevation_deg": 69.11891852378868,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.4733110078443358,
+      "formal_pointing_sigma_deg": 0.026457609552685026
+    },
+    {
+      "time_utc": "2026-09-28T13:03:16.755726+00:00",
+      "predicted_azimuth_deg": 148.03942593756446,
+      "predicted_elevation_deg": 68.57537574556552,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.05556079855220607,
+      "formal_pointing_sigma_deg": 0.02632220730940698
+    },
+    {
+      "time_utc": "2026-09-28T13:03:18.755726+00:00",
+      "predicted_azimuth_deg": 143.45778887337744,
+      "predicted_elevation_deg": 67.90704656152383,
+      "measurement_accepted": true,
+      "innovation_statistic": 3.2919497532915147,
+      "formal_pointing_sigma_deg": 0.026214860437624155
+    },
+    {
+      "time_utc": "2026-09-28T13:03:20.755726+00:00",
+      "predicted_azimuth_deg": 139.1938541771515,
+      "predicted_elevation_deg": 67.10571054389092,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.13273889697422037,
+      "formal_pointing_sigma_deg": 0.026127747774251815
+    },
+    {
+      "time_utc": "2026-09-28T13:03:24.755726+00:00",
+      "predicted_azimuth_deg": 131.65453029126678,
+      "predicted_elevation_deg": 65.25757358383483,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.9284632228697247,
+      "formal_pointing_sigma_deg": 0.028866683615080893
+    },
+    {
+      "time_utc": "2026-09-28T13:03:26.755726+00:00",
+      "predicted_azimuth_deg": 128.35729096958497,
+      "predicted_elevation_deg": 64.24396177129347,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.2545377408602153,
+      "formal_pointing_sigma_deg": 0.028070174320659183
+    },
+    {
+      "time_utc": "2026-09-28T13:03:28.755726+00:00",
+      "predicted_azimuth_deg": 125.34679657711466,
+      "predicted_elevation_deg": 63.160926997159066,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.0048438288954151,
+      "formal_pointing_sigma_deg": 0.027526814081257057
+    },
+    {
+      "time_utc": "2026-09-28T13:03:30.755726+00:00",
+      "predicted_azimuth_deg": 122.6260797581598,
+      "predicted_elevation_deg": 62.04862948991802,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.0003758171707495,
+      "formal_pointing_sigma_deg": 0.027141192190808953
+    },
+    {
+      "time_utc": "2026-09-28T13:03:32.755726+00:00",
+      "predicted_azimuth_deg": 120.12722697883423,
+      "predicted_elevation_deg": 60.90757003545008,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.45961590164174965,
+      "formal_pointing_sigma_deg": 0.026856208259687927
+    },
+    {
+      "time_utc": "2026-09-28T13:03:34.755726+00:00",
+      "predicted_azimuth_deg": 117.87230989696097,
+      "predicted_elevation_deg": 59.73499579716935,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.13308051222048223,
+      "formal_pointing_sigma_deg": 0.026637470899713064
+    },
+    {
+      "time_utc": "2026-09-28T13:03:36.755726+00:00",
+      "predicted_azimuth_deg": 115.81316104734466,
+      "predicted_elevation_deg": 58.55357760495724,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.38171133127995593,
+      "formal_pointing_sigma_deg": 0.026464314291494307
+    },
+    {
+      "time_utc": "2026-09-28T13:03:38.755726+00:00",
+      "predicted_azimuth_deg": 113.92648283085703,
+      "predicted_elevation_deg": 57.36178659852296,
+      "measurement_accepted": true,
+      "innovation_statistic": 2.7014061395457127,
+      "formal_pointing_sigma_deg": 0.026324315560610857
+    },
+    {
+      "time_utc": "2026-09-28T13:03:40.755726+00:00",
+      "predicted_azimuth_deg": 112.19411498041063,
+      "predicted_elevation_deg": 56.191161589095366,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.2037615194600848,
+      "formal_pointing_sigma_deg": 0.026209888522872593
+    },
+    {
+      "time_utc": "2026-09-28T13:03:42.755726+00:00",
+      "predicted_azimuth_deg": 110.6110336546445,
+      "predicted_elevation_deg": 55.02280459065696,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.29999358858288244,
+      "formal_pointing_sigma_deg": 0.026116187177624924
+    },
+    {
+      "time_utc": "2026-09-28T13:03:46.755726+00:00",
+      "predicted_azimuth_deg": 107.83141525259286,
+      "predicted_elevation_deg": 52.69735938651317,
+      "measurement_accepted": false,
+      "innovation_statistic": 18599.86314026418,
+      "formal_pointing_sigma_deg": 0.034676401097576096
+    },
+    {
+      "time_utc": "2026-09-28T13:03:48.755726+00:00",
+      "predicted_azimuth_deg": 106.59938196008822,
+      "predicted_elevation_deg": 51.55728016885101,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.2707267699389949,
+      "formal_pointing_sigma_deg": 0.03166255224170093
+    },
+    {
+      "time_utc": "2026-09-28T13:03:50.755726+00:00",
+      "predicted_azimuth_deg": 105.4653210067844,
+      "predicted_elevation_deg": 50.441574534482534,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.4535460387789125,
+      "formal_pointing_sigma_deg": 0.029781804365284686
+    },
+    {
+      "time_utc": "2026-09-28T13:03:52.755726+00:00",
+      "predicted_azimuth_deg": 104.39980642145824,
+      "predicted_elevation_deg": 49.344926647174276,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.7751549008907808,
+      "formal_pointing_sigma_deg": 0.028537686672150658
+    },
+    {
+      "time_utc": "2026-09-28T13:03:54.755726+00:00",
+      "predicted_azimuth_deg": 103.4319137823489,
+      "predicted_elevation_deg": 48.25006492198969,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.5059535081400623,
+      "formal_pointing_sigma_deg": 0.02769231728784483
+    },
+    {
+      "time_utc": "2026-09-28T13:03:56.755726+00:00",
+      "predicted_azimuth_deg": 102.53082104115936,
+      "predicted_elevation_deg": 47.18454947807442,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.0350200285567872,
+      "formal_pointing_sigma_deg": 0.02711208204850119
+    },
+    {
+      "time_utc": "2026-09-28T13:03:58.755726+00:00",
+      "predicted_azimuth_deg": 101.66757669853202,
+      "predicted_elevation_deg": 46.14426417316857,
+      "measurement_accepted": true,
+      "innovation_statistic": 5.159143855454136,
+      "formal_pointing_sigma_deg": 0.026713414110652124
+    },
+    {
+      "time_utc": "2026-09-28T13:04:00.755726+00:00",
+      "predicted_azimuth_deg": 100.87823637508215,
+      "predicted_elevation_deg": 45.1522161387103,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.768839464673779,
+      "formal_pointing_sigma_deg": 0.02644033600671955
+    },
+    {
+      "time_utc": "2026-09-28T13:04:02.755726+00:00",
+      "predicted_azimuth_deg": 100.1509606513208,
+      "predicted_elevation_deg": 44.153702927640964,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.019038645501028,
+      "formal_pointing_sigma_deg": 0.02625391817276616
+    },
+    {
+      "time_utc": "2026-09-28T13:04:04.755726+00:00",
+      "predicted_azimuth_deg": 99.4452167528865,
+      "predicted_elevation_deg": 43.19142786771466,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.6666596981391351,
+      "formal_pointing_sigma_deg": 0.026126708529163233
+    },
+    {
+      "time_utc": "2026-09-28T13:04:08.755726+00:00",
+      "predicted_azimuth_deg": 98.16772992909812,
+      "predicted_elevation_deg": 41.329086360922496,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.38835905024195605,
+      "formal_pointing_sigma_deg": 0.028842762839859495
+    },
+    {
+      "time_utc": "2026-09-28T13:04:10.755726+00:00",
+      "predicted_azimuth_deg": 97.58423879455871,
+      "predicted_elevation_deg": 40.43940781767999,
+      "measurement_accepted": true,
+      "innovation_statistic": 3.6649496913093453,
+      "formal_pointing_sigma_deg": 0.028052957868774497
+    },
+    {
+      "time_utc": "2026-09-28T13:04:12.755726+00:00",
+      "predicted_azimuth_deg": 97.01360570679806,
+      "predicted_elevation_deg": 39.57918640459938,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.006693451519774901,
+      "formal_pointing_sigma_deg": 0.02751750140524108
+    },
+    {
+      "time_utc": "2026-09-28T13:04:14.755726+00:00",
+      "predicted_azimuth_deg": 96.4944794644018,
+      "predicted_elevation_deg": 38.729272299545144,
+      "measurement_accepted": true,
+      "innovation_statistic": 1.335324960109744,
+      "formal_pointing_sigma_deg": 0.02713904706976238
+    },
+    {
+      "time_utc": "2026-09-28T13:04:16.755726+00:00",
+      "predicted_azimuth_deg": 95.99517597590275,
+      "predicted_elevation_deg": 37.89134946091125,
+      "measurement_accepted": true,
+      "innovation_statistic": 2.471470786964229,
+      "formal_pointing_sigma_deg": 0.026859600734279433
+    },
+    {
+      "time_utc": "2026-09-28T13:04:18.755726+00:00",
+      "predicted_azimuth_deg": 95.53381603862645,
+      "predicted_elevation_deg": 37.0677898582465,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.948097242385868,
+      "formal_pointing_sigma_deg": 0.026644543014416863
+    },
+    {
+      "time_utc": "2026-09-28T13:04:20.755726+00:00",
+      "predicted_azimuth_deg": 95.10059662254844,
+      "predicted_elevation_deg": 36.28770567079718,
+      "measurement_accepted": true,
+      "innovation_statistic": 2.112153671029493,
+      "formal_pointing_sigma_deg": 0.026473363705247367
+    },
+    {
+      "time_utc": "2026-09-28T13:04:22.755726+00:00",
+      "predicted_azimuth_deg": 94.68612710468936,
+      "predicted_elevation_deg": 35.53588615838961,
+      "measurement_accepted": true,
+      "innovation_statistic": 3.585506259002576,
+      "formal_pointing_sigma_deg": 0.02633397777198836
+    },
+    {
+      "time_utc": "2026-09-28T13:04:24.755726+00:00",
+      "predicted_azimuth_deg": 94.30772840759374,
+      "predicted_elevation_deg": 34.77920666316773,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.9002942529457055,
+      "formal_pointing_sigma_deg": 0.026219187791369145
+    },
+    {
+      "time_utc": "2026-09-28T13:04:26.755726+00:00",
+      "predicted_azimuth_deg": 93.92122957295443,
+      "predicted_elevation_deg": 34.04939380756338,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.043360796163403756,
+      "formal_pointing_sigma_deg": 0.02612451105122296
+    },
+    {
+      "time_utc": "2026-09-28T13:04:28.755726+00:00",
+      "predicted_azimuth_deg": 93.56015064418935,
+      "predicted_elevation_deg": 33.34205525137297,
+      "measurement_accepted": true,
+      "innovation_statistic": 0.42224599639660393,
+      "formal_pointing_sigma_deg": 0.026046889203093275
+    }
+  ],
+  "scope": "Causal one-step pointing predictions, not orbit determination; sigma is uncalibrated formal filter covariance"
+}

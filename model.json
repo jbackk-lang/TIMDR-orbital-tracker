@@ -1,0 +1,11 @@
+{
+  "name": "TIMDR-orbital-tracker",
+  "version": "0.1.0",
+  "kind": "physical and statistical model; no neural weights",
+  "manifest_role": "Documents implemented default parameters; not a runtime configuration file",
+  "orbital_kernel": {"algorithm": "SGP4", "implementation": "sgp4 2.27 / Skyfield 1.55", "input": "CelesTrak GP OMM-compatible JSON", "default_max_epoch_distance_days": 7},
+  "association": {"gate_deg": 1.0, "minimum_inlier_fraction": 0.7, "minimum_runner_up_margin_deg": 0.2},
+  "pointing_residual_filter": {"state": "ENU unit-vector residual and its derivative, six components", "measurement_sigma_deg": 0.03, "acceleration_sigma_deg_s2": 0.0003, "initial_bias_sigma_deg": 0.5, "initial_rate_sigma_deg_s": 0.01, "innovation_gate": 16.27, "reset_gap_seconds": 120},
+  "photometric_clock": {"model": "linear frequency drift, two harmonics", "physical_rotation_identified": false, "coupled_to_orbit": false},
+  "independent_real_position_validation": false
+}

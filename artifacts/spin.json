@@ -1,0 +1,29 @@
+{
+  "status": "accepted_model",
+  "reasons": [],
+  "time_origin": 0.0,
+  "frequency_initial": 0.5003825647056557,
+  "frequency_drift": 0.01998473408824934,
+  "explained_variation": 0.8424294211370605,
+  "local_explained_variation": [
+    0.8486060340813284,
+    0.8387127784386063,
+    0.828722347121144,
+    0.8523016090777241,
+    0.8385625241317469,
+    0.8466502932487288
+  ],
+  "harmonics": 2,
+  "frequency_bounds": [
+    0.35,
+    0.8
+  ],
+  "drift_bounds": [
+    -0.01,
+    0.03
+  ],
+  "photometric_period_canonicalized": false,
+  "physical_rotation_identified": false,
+  "scope": "constant frequency drift; fixed harmonic amplitudes; phase relative to first sample",
+  "warning": "Photometric periodicity is not uniquely the physical rotation. Bounds are prior information."
+}

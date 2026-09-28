@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "timdr-orbital-tracker"
+version = "0.1.0"
+description = "Public-catalog orbit prediction, angular track association, and photometric clock research"
+requires-python = ">=3.11"
+dependencies = ["numpy>=2.0,<3", "scipy>=1.13,<2", "skyfield==1.55", "sgp4==2.27", "jplephem==2.24", "pyserial==3.5"]
+
+[project.scripts]
+timdr-orbit = "timdr_orbit.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["timdr_orbit*"]
+
+[tool.setuptools.package-data]
+timdr_orbit = ["dashboard.html", "console.html"]
