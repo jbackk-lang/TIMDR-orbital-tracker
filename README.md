@@ -84,6 +84,6 @@ Przed deklaracją skuteczności na realnych pomiarach należy pozyskać niezale�
 - [CelesTrak GP/OMM](https://celestrak.org/NORAD/documentation/gp-data-formats.php): format i źródło snapshotów, metadane w `data/*.meta.json`.
 - [Skyfield — Earth Satellites](https://rhodesmill.org/skyfield/earth-satellites.html): propagacja i obserwator.
 - [Vallado i in. — Revisiting Spacetrack Report #3](https://celestrak.org/publications/AIAA/2006-6753/AIAA-2006-6753.pdf): SGP4 i referencje weryfikacyjne, dystrybuowane także z python-sgp4.
-- TIMDR: organizacja warstw i dyscyplina testowania. Nazwa projektu nie przypisuje SGP4 autorstwa TIMDR. Nie stwierdzono nowego prawa orbitalnego ani przewagi nowego sita.
+- **Rola [GIA‑TIMDR](https://github.com/jbackk-lang/GIA-TIMDR).** TIMDR stanowi ramę konstrukcyjną do budowania modeli analizy sygnałów. W tym projekcie jego drogowskazy — wybór zegara procesu, odtwarzanie fazy, rozdzielenie warstw opisu oraz kontrola wiarygodności — ukierunkowały budowę eksperymentalnego zegara fotometrycznego i architekturę analizy. Propagację orbity realizuje standardowy SGP4. Walidacja sprzężenia analizy rotacji ze śledzeniem orbitalnym na rzeczywistych obserwacjach pozostaje kolejnym etapem.
 
 Repo: https://github.com/jbackk-lang/TIMDR-orbital-tracker. Licencję własnego kodu ustala właściciel repo; zależności zachowują swoje licencje. Lokalne pomiary, klucz odbiornika i środowisko Pythona są wyłączone z Gita.
