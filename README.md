@@ -67,7 +67,7 @@ CSV `time,flux`; sekundy → Hz. Zegar zakłada liniową zmianę częstotliwośc
 
 ## Co rzeczywiście sprawdzono
 
-- 16 testów automatycznych: opublikowane wektory referencyjne SGP4, współrzędne, prędkość radialna przez różniczkowanie odległości, zdarzenia przelotów, świeżość danych, kojarzenie i odmowa niejednoznacznego dopasowania, przyczynowość filtra, odrzucanie odstających obserwacji.
+- 23 testy automatyczne (w tym zapis SQLite, CSV/HTTP i adapter LX200): opublikowane wektory referencyjne SGP4, współrzędne, prędkość radialna przez różniczkowanie odległości, zdarzenia przelotów, świeżość danych, kojarzenie i odmowa niejednoznacznego dopasowania, przyczynowość filtra, odrzucanie odstających obserwacji.
 - 30 prób syntetycznych z niezależnymi ziarnami: szum, przesunięcie kierunku, dryf, błędne próbki, braki i końcowy odcinek bez pomiarów. Wszystkie przebiegi zachowane w `artifacts/validation/tracking_validation.json`.
 - Rzeczywiste publiczne **elementy orbitalne**, ale **brak niezależnych rzeczywistych pomiarów pozycji**. Nie deklarujemy dokładności w metrach ani przewagi TIMDR nad komercyjnym śledzeniem.
 
@@ -86,4 +86,4 @@ Przed deklaracją skuteczności na realnych pomiarach należy pozyskać niezale�
 - [Vallado i in. — Revisiting Spacetrack Report #3](https://celestrak.org/publications/AIAA/2006-6753/AIAA-2006-6753.pdf): SGP4 i referencje weryfikacyjne, dystrybuowane także z python-sgp4.
 - TIMDR: organizacja warstw i dyscyplina testowania. Nazwa projektu nie przypisuje SGP4 autorstwa TIMDR. Nie stwierdzono nowego prawa orbitalnego ani przewagi nowego sita.
 
-Repo jest lokalne, bez skonfigurowanego zdalnego origin. Przed publiczną publikacją należy ustalić licencję własnego kodu; zależności zachowują swoje licencje. W repo nie ma tokenów ani kont dostępowych.
+Repo: https://github.com/jbackk-lang/TIMDR-orbital-tracker. Licencję własnego kodu ustala właściciel repo; zależności zachowują swoje licencje. Lokalne pomiary, klucz odbiornika i środowisko Pythona są wyłączone z Gita.
